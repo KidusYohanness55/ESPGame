@@ -86,7 +86,7 @@ public class ESPGame {
 			if (inputColor.equalsIgnoreCase("Black") || inputColor.equalsIgnoreCase("White")
 					|| inputColor.equalsIgnoreCase("Gray") || inputColor.equalsIgnoreCase("Silver")
 					|| inputColor.equalsIgnoreCase("Maroon") || inputColor.equalsIgnoreCase("Red")
-					|| inputColor.equalsIgnoreCase("Purple") || inputColor.equalsIgnoreCase("Fuchisa")
+					|| inputColor.equalsIgnoreCase("Purple") || inputColor.equalsIgnoreCase("Fuchsia")
 					|| inputColor.equalsIgnoreCase("Green") || inputColor.equalsIgnoreCase("Lime")
 					|| inputColor.equalsIgnoreCase("Olive") || inputColor.equalsIgnoreCase("Yellow")
 					|| inputColor.equalsIgnoreCase("Navy") || inputColor.equalsIgnoreCase("Blue")
